@@ -1,7 +1,7 @@
 # 3D-Website 
 <br />
-Just building some basic 3D website using Three.js 
-<br />
+Just some basic 3D website using Three.js 
+<br /><br />
 <b>Thankyou @codediodeio for his tutorial on youtube 
 <br />
 who assisted the creation of my first 3D website</b>.
@@ -14,5 +14,5 @@ git clone <this-repo>
 npm install
 <br />
 npm run dev
-
+<br /><br /><br />
 Looking forward in experimenting with Three.js in the future (:
