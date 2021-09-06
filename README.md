@@ -6,7 +6,6 @@ Just some basic 3D website using Three.js
 <br />
 </b>
 <br />
-<br />
 <b>USAGE</b>
 <br />
 git clone <this-repo>
