@@ -4,10 +4,10 @@ Just building some basic 3D website using Three.js
 <br />
 <b>Thankyou @codediodeio for his tutorial on youtube 
 <br />
-who assisted the creation of my first 3D website<b>.
+who assisted the creation of my first 3D website</b>.
 <br />
 <br />
-<b>USAGE<b>
+<b>USAGE</b>
 <br />
 git clone <this-repo>
 <br />
