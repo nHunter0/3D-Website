@@ -2,9 +2,9 @@
 <br />
 Just some basic 3D website using Three.js 
 <br /><br />
-<b>Thankyou @codediodeio for his tutorial on youtube 
+<b>Thankyou @codediodeio who assisted the creation of my first 3D website and for his tutorial on youtube.
 <br />
-who assisted the creation of my first 3D website</b>.
+</b>
 <br />
 <br />
 <b>USAGE</b>
