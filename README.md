@@ -2,11 +2,12 @@
 <br />
 Just building some basic 3D website using Three.js 
 <br />
-**Thankyou @codediodeio for his tutorial on youtube 
-who assisted the creation of my first 3D website**
+<b>Thankyou @codediodeio for his tutorial on youtube 
+<br />
+who assisted the creation of my first 3D website<b>.
 <br />
 <br />
-***USAGE***
+<b>USAGE<b>
 <br />
 git clone <this-repo>
 <br />
