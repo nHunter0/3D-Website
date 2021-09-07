@@ -2,7 +2,6 @@ import './style.css'
 
 import * as THREE from 'three'; 
 import { AmbientLight } from 'three';
-
 import {OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
 //scene is like container that holds cameras and lights
